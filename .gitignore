@@ -1,0 +1,4 @@
+__pycache__/
+store.sqlite3
+store.sqlite3-shm
+store.sqlite3-wal
